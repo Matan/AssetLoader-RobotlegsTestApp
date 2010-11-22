@@ -1,0 +1,15 @@
+/.settings/*
+
+.actionScriptProperties
+.flexProperties
+.flexLibProperties
+.FlexUnitSettings
+.project
+
+Icon
+Thumbs.db
+.DS_Store
+
+*.iml
+*.ipr
+*.iws
